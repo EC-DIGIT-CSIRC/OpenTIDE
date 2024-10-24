@@ -8,3 +8,7 @@ It consists of a series of projects:
 
 # ![StartTIDE logo](https://code.europa.eu/uploads/-/system/project/avatar/703/starttide.png?width=48) StartTIDE
 #### StartTIDE is a ready to use base project, providing an OpenTIDE Instance with a simple git clone. The [reference StartTIDE repository](https://code.europa.eu/ec-digit-s2/opentide/starttide) is hosted on code.europa.eu
+
+## Overview of the OpenTIDE framework
+
+![Moderm Threat Driven Detection Engineering Workflows](./images/OpenTIDE_moderm_threat_driven_workflows.png)
